@@ -1,0 +1,4 @@
+./Boto3CliV1Artifacts/boto3-1.40.43-py3-none-any.whl
+./Boto3CliV1Artifacts/botocore-1.40.43-py3-none-any.whl
+requests
+ipykernel
